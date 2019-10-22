@@ -20,3 +20,14 @@ in i rätt fält genom min SQL-fråga.
 
 Länk till webbtjänst för testkörning:
 http://studenter.miun.se/~joem1800/writeable/Moment5/pub/
+
+URI till funktionerna:
+
+##CREATE##
+http://studenter.miun.se/~joem1800/writeable/Moment5/api/course/create.php
+##READ##
+http://studenter.miun.se/~joem1800/writeable/Moment5/api/course/read.php
+##UPDATE##
+http://studenter.miun.se/~joem1800/writeable/Moment5/api/course/update.php
+##DELETE##
+http://studenter.miun.se/~joem1800/writeable/Moment5/api/course/delete.php
