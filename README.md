@@ -24,10 +24,17 @@ http://studenter.miun.se/~joem1800/writeable/Moment5/pub/
 URI till funktionerna:
 
 _CREATE_
+
 http://studenter.miun.se/~joem1800/writeable/Moment5/api/course/create.php
+
 _READ_
+
 http://studenter.miun.se/~joem1800/writeable/Moment5/api/course/read.php
+
 _UPDATE_
+
 http://studenter.miun.se/~joem1800/writeable/Moment5/api/course/update.php
+
 _DELETE_
+
 http://studenter.miun.se/~joem1800/writeable/Moment5/api/course/delete.php
