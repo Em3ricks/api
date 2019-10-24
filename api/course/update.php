@@ -27,7 +27,7 @@ $courses->id = $data->id;
 $courses->kurskod = $data->kurskod;
 $courses->progression = $data->progression;
 $courses->kursnamn = $data->kursnamn;
-$courses->lasperiod = $data->lasperiod;
+$courses->kursplan = $data->kursplan;
  
 // update the courses
 if($courses->update()){
