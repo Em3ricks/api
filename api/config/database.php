@@ -8,12 +8,6 @@ class Database{
     public $password = "g8wmt1wr";
     public $conn; 
 
-    /*private $host = "localhost";
-    private $db_name = "api_db";
-    private $username = "root";
-    private $password = "";
-    public $conn;*/
- 
     // get the database connection
     public function getConnection(){
  
@@ -29,3 +23,4 @@ class Database{
     }
 }
 ?>
+

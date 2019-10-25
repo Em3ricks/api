@@ -31,12 +31,12 @@ if($num>0){
         extract($row);
  
         $course_item=array(
+            "id" => $id,
             "kurskod" => $kurskod,
             "progression" => $progression,
             "kursnamn" => $kursnamn,
             "kursplan" => $kursplan
         );
-        
         // Lägger innehåll i en array och döper denna till kurslista
         array_push($courses_arr["kurslista"], $course_item);
     }
