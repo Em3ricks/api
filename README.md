@@ -35,6 +35,20 @@ _UPDATE_
 
 http://studenter.miun.se/~joem1800/writeable/Moment5/api/course/update.php
 
+{
+                             "id" : "46",
+                             "kurskod" : "valfritt värde här",
+                             "progression" : "valfritt värde här",
+                             "kursnamn" : "valfritt värde här",
+                             "kursplan" : "valfritt värde här"
+}
+
+
 _DELETE_
 
 http://studenter.miun.se/~joem1800/writeable/Moment5/api/course/delete.php
+
+{
+                             "id" : "48"
+}
+
